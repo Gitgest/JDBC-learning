@@ -15,7 +15,7 @@ import java.sql.SQLException;
  */
 public class JDBCLearning {
 
-
+//test
     private static final String USERNAME = "dbuser";
     private static final String PSSWRD = "dbpassword";
     private static final String CONN_STRING = 
